@@ -1,1 +1,4 @@
 RF-01 - O sistema deve permitir que o cliente realize login.
+RF-02 - O sistema deve permitir acompanhar pedidos.
+RF-02 - O sistema deve permitir cadastro de produtos pelo lojista.
+RF-02 - O sistema deve permitir cadastro de produtos pelo lojista.
