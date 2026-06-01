@@ -4,3 +4,7 @@ RF-02 - O sistema deve permitir cadastro de produtos pelo lojista.
 RF-02 - O sistema deve permitir cadastro de produtos pelo lojista.
 RF-03 - O sistema deve permitir que o cliente finalize a compra.
 RF-04 - O sistema deve processar pagamento via gateway externo.
+RF-05 - O sistema deve permitir acompanhar pedidos.
+RF-05 - O sistema deve permitir acompanhar pedidos.
+RF-05 - O sistema deve permitir acompanhar pedidos.
+RF-05 - O sistema deve permitir acompanhar pedidos.
